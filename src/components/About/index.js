@@ -1,4 +1,5 @@
-import React from "react"
+import React from "react";
+// import Logo from "../../assets/family.jpg"
 
 
 export default function About(){
@@ -20,17 +21,17 @@ export default function About(){
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ml-auto">
               <li className="nav-item active">
-                <a className="nav-link" href="./index.html"
+                <a className="nav-link" href="/"
                   >About <span className="sr-only">(current)</span></a
                 >
               </li>
               <li className="nav-item active">
-                <a className="nav-link" href="./contact.html"
+                <a className="nav-link" href="/contacts"
                   >Contact <span className="sr-only">(current)</span></a
                 >
               </li>
               <li className="nav-item active">
-                <a className="nav-link" href="./portfolio.html"
+                <a className="nav-link" href="/portfolio"
                   >Portfolio <span className="sr-only">(current)</span></a
                 >
               </li>
@@ -64,7 +65,7 @@ export default function About(){
         </div>
         <div className="row">
           <div className="col-sm-4">
-            <img id="bio-image" src="Family.jpg" />
+            <img id="bio-image" src="/assets/images/Family.jpg" style={{width:"100%"}}/>
           </div>
           <div className="col-sm-8">
             <p>

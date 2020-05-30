@@ -30,7 +30,7 @@ export default function Portfolio(){
               >
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="./portfolio.html"
+              <a className="nav-link" href="/portfolio"
                 >Portfolio <span className="sr-only">(current)</span></a
               >
             </li>
@@ -56,7 +56,7 @@ export default function Portfolio(){
           </ul>
         </div>
       </nav>
-        <div className="container" className="card" id="addShadow">
+        <div className="container">
             <div className="row">
               <div className="col-sm-6">
                 <h5><a className="project-link" href="https://sboulom.github.io/calendar/">Day Planner</a><span className= "divider">|</span>
@@ -89,7 +89,7 @@ export default function Portfolio(){
             <img src="NoteTaker.png" className="img"/>
           </div>
         </div>
-        <br>
+        
         <div className="row">
           <div className="col-sm-6">
             <h5><a className="project-link" href="hhttps://sboulom.github.io/Quiz/">Code Quiz</a><span className= "divider">|</span>
@@ -100,7 +100,7 @@ export default function Portfolio(){
           
          
         </div>
-        </br>
+      
         </div>
     )
 }
