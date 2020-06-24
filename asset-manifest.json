@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sboulom/React-Portfolio/static/css/main.5d7aecdc.chunk.css",
+    "main.js": "/sboulom/React-Portfolio/static/js/main.d2ed4a53.chunk.js",
+    "main.js.map": "/sboulom/React-Portfolio/static/js/main.d2ed4a53.chunk.js.map",
+    "runtime-main.js": "/sboulom/React-Portfolio/static/js/runtime-main.8ce8723f.js",
+    "runtime-main.js.map": "/sboulom/React-Portfolio/static/js/runtime-main.8ce8723f.js.map",
+    "static/js/2.12fa4b5e.chunk.js": "/sboulom/React-Portfolio/static/js/2.12fa4b5e.chunk.js",
+    "static/js/2.12fa4b5e.chunk.js.map": "/sboulom/React-Portfolio/static/js/2.12fa4b5e.chunk.js.map",
+    "index.html": "/sboulom/React-Portfolio/index.html",
+    "precache-manifest.8dc780f0df136843d8f3f4ad673456ba.js": "/sboulom/React-Portfolio/precache-manifest.8dc780f0df136843d8f3f4ad673456ba.js",
+    "service-worker.js": "/sboulom/React-Portfolio/service-worker.js",
+    "static/css/main.5d7aecdc.chunk.css.map": "/sboulom/React-Portfolio/static/css/main.5d7aecdc.chunk.css.map",
+    "static/js/2.12fa4b5e.chunk.js.LICENSE.txt": "/sboulom/React-Portfolio/static/js/2.12fa4b5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce8723f.js",
+    "static/js/2.12fa4b5e.chunk.js",
+    "static/css/main.5d7aecdc.chunk.css",
+    "static/js/main.d2ed4a53.chunk.js"
+  ]
+}
